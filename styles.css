@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+    color: #333;
+}
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #ffcccb;
+    border-radius: 10px;
+}
+.chiste {
+    background-color: #fff;
+    margin: 10px auto;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    max-width: 600px;
+}
